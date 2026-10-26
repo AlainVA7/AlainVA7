@@ -35,10 +35,6 @@
   <img height="170" src="https://streak-stats.demolab.com?user=AlainVA7&hide_border=true&background=00000000&ring=58A6FF&fire=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AlainVA7/AlainVA7/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 <h3 align="center">📫 Get in touch</h3>
