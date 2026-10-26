@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AlainVA7/AlainVA7/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AlainVA7/AlainVA7/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
