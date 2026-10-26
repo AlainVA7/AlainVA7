@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alain 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Telecom+%26+IT+Technician;Artificial+Intelligence+student;Computer+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Telecom+%26+IT+Technician;Artificial+Intelligence+student" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,12 +33,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlainVA7&show_icons=true&hide_border=true&theme=transparent&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=AlainVA7&hide_border=true&background=00000000&ring=58A6FF&fire=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-</p>
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlainVA7&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=79c0ff&area=true&hide_border=true&radius=16)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlainVA7&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
 </p>
 
 <p align="center">
