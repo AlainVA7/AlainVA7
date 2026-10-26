@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Hi, I'm Alain. Higher Technician in Telecommunications and Computer Systems, currently studying the Artificial Intelligence specialization. I'm a computer enthusiast — even though I'm not a programmer, I really enjoy the world of IT and I keep learning more about it every day.
+  Higher Technician in Telecommunications and Computer Systems, currently studying the Artificial Intelligence specialization. I'm a computer enthusiast — even though I'm not a programmer, I really enjoy the world of IT and I keep learning more about it every day.
 </p>
 
 <p align="center">📍 Basque Country, Spain</p>
