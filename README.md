@@ -11,7 +11,7 @@
 <p align="center">📍 Basque Country, Spain</p>
 
 <p align="center">
-  🔭 <b>Currently learning:</b> Artificial Intelligence · Docker · Linux
+  🔭 <b>Currently learning:</b> Artificial Intelligence
 </p>
 
 ---
